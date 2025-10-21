@@ -11,54 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.Eng. in Mechanical Engineering**, University of California, Berkeley | 2019 - 2020 (GPA: 3.77/4.0)
+* **B.S. in Industrial Engineering**, Arts et Métiers ParisTech | 2015 - 2019 (GPA: 3.89/4.0)
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Mechanical Engineer** | Fortrend Engineering Corp., San Jose, CA | December 2021 - Present
+  * Design high-precision reticle and wafer handling systems for ISO Class 1 cleanrooms in semiconductor manufacturing
+  * Develop robotic end-effectors and fixtures for SCARA-integrated systems with barcode reading and pellicle detection
+  * Lead full project lifecycle from concept through production, including prototyping, FEA validation, and vendor coordination
+  * Create custom mechanical assemblies using SolidWorks with error budgeting and GD&T analysis
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Mechanical Design Engineer (NPI)** | Baumatix, Oakland, CA | October 2020 - November 2021
+  * Designed structural components and performed FEA analysis (ASCE 7 load calculations)
+  * Developed PCB assemblies using SolidWorks PCB and redesigned parts for DFM (injection molding, machining)
+  * Programmed CNC toolpaths (HSMWorks, CAMWorks) and set up Haas lathe/mill processes
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Robotics Engineer** | Hermes Robotics (YC W21), San Francisco, CA | July 2020 - October 2020
+  * Developed coverage path planning algorithms (A*, TSP) in Python for autonomous driving systems
 
-Publications
+* **Mechanical Design Engineer Intern** | All Power Labs, Berkeley, CA | May 2020 - July 2020
+  * Engineered switchgear cabinets and thermal energy systems with HVAC loop design
+
+Technical Skills
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **CAD/CAM/CAE**: SolidWorks (primary), CATIA V5/V6, SolidWorks PCB, HSMWorks, CAMWorks, Abaqus, Staad.Pro
+* **Programming**: Python, MATLAB, C (Arduino), ROS, Simulink, LaTeX, Cursor (LLM-assisted design)
+* **Manufacturing**: CNC machining, injection molding, 3D printing, MIG welding, sheet metal forming, LEAN, FMEA
+* **Engineering Standards**: GD&T, DFM, ASCE 7, ASTM/SAE standards, ISO Class 1 cleanroom design, ESD compliance
+* **Analysis**: FEA (stress/deflection), error budgeting, tolerance analysis, structural analysis, load calculations
+
+Core Competencies
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Semiconductor equipment design (loadports, wafer handling, SCARA robotics, ISO Class 1 cleanroom)
+* Mechanical design & FEA validation with GD&T and error budgeting
+* Full product lifecycle management (concept to production, vendor coordination, prototyping)
+* Design for Manufacturability (DFM) and rapid prototyping
+
+Notable Projects
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Semiconductor Equipment** - CXRO/Lawrence Berkeley National Lab: EUV lithography automation systems
+* **Structural Consulting** - INT Design Construction: Residential engineering calculations and design
