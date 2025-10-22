@@ -1,25 +1,33 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Antoine Jamme's Personal Website
+**Personal academic website showcasing my work as a Co-founder & Hardware Engineer at OMGrab.**
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
+![Antoine Jamme - Hardware Engineer](images/hardware.PNG "Hardware development at OMGrab")
 
-# Getting Started
+# About This Website
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+This is my personal academic website built with Jekyll and the Academic Pages template. The site showcases my work as a hardware engineer and co-founder at OMGrab, where we're building robotics-grade smartglasses for large-scale robot training data collection.
 
-See more info at https://academicpages.github.io/
+## Website Sections
+
+- **About**: My background and current work at OMGrab
+- **Portfolio**: Recent projects and hardware development work
+- **CV**: Professional experience and education
+- **Publications**: Research papers and technical publications
+- **Talks**: Conference presentations and speaking engagements
+
+## Contact
+
+- **Email**: antoinejamme@mail.com
+- **LinkedIn**: [antoine-jamme](https://www.linkedin.com/in/antoine-jamme/)
+- **GitHub**: [AntoineJamme](https://github.com/AntoineJamme)
+
+# Development
 
 ## Running locally
 
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+When working on this website, it's useful to preview changes locally before pushing to GitHub. To work locally you will need to:
 
-1. Clone the repository and made updates as detailed above.
+1. Clone this repository and make your updates.
 
 ### Using a different IDE
 1. Make sure you have ruby-dev, bundler, and nodejs installed
@@ -71,17 +79,17 @@ You should now be able to access the website from `localhost:4000`.
 
 If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development coontainer configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
 
-# Maintenance
+# Credits
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+This website is built using the [Academic Pages](https://academicpages.github.io/) Jekyll template, which was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose.
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+## Template Information
 
-## Bugfixes and enhancements
+- **Original Template**: [Academic Pages](https://github.com/academicpages/academicpages.github.io)
+- **Base Theme**: [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose
+- **License**: MIT License (see LICENSE.md)
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+For questions about the template or to report issues, please visit the [Academic Pages repository](https://github.com/academicpages/academicpages.github.io).
 
 ---
 <div align="center">
