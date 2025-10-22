@@ -12,8 +12,6 @@ This is my personal academic website built with Jekyll and the Academic Pages te
 - **About**: My background and current work at OMGrab
 - **Portfolio**: Recent projects and hardware development work
 - **CV**: Professional experience and education
-- **Publications**: Research papers and technical publications
-- **Talks**: Conference presentations and speaking engagements
 
 ## Contact
 
