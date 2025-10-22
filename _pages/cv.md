@@ -18,20 +18,15 @@ Work Experience
 ======
 * **Mechanical Engineer** | Fortrend Engineering Corp., San Jose, CA | December 2021 - Present
   * Design high-precision reticle and wafer handling systems for ISO Class 1 cleanrooms in semiconductor manufacturing
-  * Develop robotic end-effectors and fixtures for SCARA-integrated systems with barcode reading and pellicle detection
+  * Develop robotic end-effectors and fixtures for SCARA-integrated systems.
   * Lead full project lifecycle from concept through production, including prototyping, FEA validation, and vendor coordination
-  * Create custom mechanical assemblies using SolidWorks with error budgeting and GD&T analysis
 
-* **Mechanical Design Engineer (NPI)** | Baumatix, Oakland, CA | October 2020 - November 2021
-  * Designed structural components and performed FEA analysis (ASCE 7 load calculations)
-  * Developed PCB assemblies using SolidWorks PCB and redesigned parts for DFM (injection molding, machining)
-  * Programmed CNC toolpaths (HSMWorks, CAMWorks) and set up Haas lathe/mill processes
+* **Mechanical Design Engineer (NPI)** | Baumatix (Early-stage Startup), Oakland, CA | October 2020 - November 2021
+  * Designed innovative structural and plumbing connectors that led to patent applications
+  * Developed electronic and mechanical assemblies, programmed and ran CNC machining operations to prototype
 
 * **Robotics Engineer** | Hermes Robotics (YC W21), San Francisco, CA | July 2020 - October 2020
   * Developed coverage path planning algorithms (A*, TSP) in Python for autonomous driving systems
-
-* **Mechanical Design Engineer Intern** | All Power Labs, Berkeley, CA | May 2020 - July 2020
-  * Engineered switchgear cabinets and thermal energy systems with HVAC loop design
 
 Technical Skills
 ======
@@ -47,8 +42,3 @@ Core Competencies
 * Mechanical design & FEA validation with GD&T and error budgeting
 * Full product lifecycle management (concept to production, vendor coordination, prototyping)
 * Design for Manufacturability (DFM) and rapid prototyping
-
-Notable Projects
-======
-* **Semiconductor Equipment** - CXRO/Lawrence Berkeley National Lab: EUV lithography automation systems
-* **Structural Consulting** - INT Design Construction: Residential engineering calculations and design
