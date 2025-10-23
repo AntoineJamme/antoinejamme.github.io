@@ -1,10 +1,12 @@
 ---
 title: "FlashScan™ Reticle Blank Inspection System - KLA-Tencor"
-excerpt: "Advanced inspection systems for optical and EUV reticle blanks in semiconductor manufacturing"
+excerpt: "Advanced inspection systems for optical and EUV reticle blanks in semiconductor manufacturing<br/><img src='/images/KLA.jpg'>"
 collection: portfolio
 ---
 
 ## FlashScan™ Reticle Blank Inspection System
+
+<img src="/images/KLA.jpg" alt="KLA-Tencor FlashScan System" style="max-width: 100%; height: auto; margin: 20px 0;">
 
 ### Project Overview
 
