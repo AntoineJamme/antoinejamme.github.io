@@ -1,10 +1,12 @@
 ---
 title: "Lamina 200mm Wafer Sorter/EFEM - Fortrend Engineering"
-excerpt: "Advanced wafer handling and sorting system for semiconductor manufacturing"
+excerpt: "Advanced wafer handling and sorting system for semiconductor manufacturing<br/><img src='/images/EFEM.gif'>"
 collection: portfolio
 ---
 
 ## Lamina 200mm Wafer Sorter/EFEM
+
+<img src="/images/EFEM.gif" alt="Lamina 200mm Wafer Sorter/EFEM in action" style="max-width: 100%; height: auto; margin: 20px 0;">
 
 ### Project Overview
 
