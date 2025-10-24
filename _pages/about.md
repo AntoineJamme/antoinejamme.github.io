@@ -1,13 +1,11 @@
 ---
 permalink: /
-#title: "Antoine Jamme - Co-founder & Hardware Engineer at OMGrab"
+title: "Hi, welcome to my page"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-# 
 
 I'm **Antoine Jamme**, co-founder and hardware engineer at **OMGrab**, where we're building the future of robotics training data collection through smartglasses and data infrastructure.
 
