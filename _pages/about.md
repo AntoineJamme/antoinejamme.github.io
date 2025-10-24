@@ -11,7 +11,7 @@ I'm **Antoine Jamme**, co-founder and hardware engineer at **OMGrab**, where we'
 
 At **OMGrab** I'm designing **robotics-grade smartglasses** that capture high-quality human point-of-view demonstrations. My work spans the entire hardware development lifecycle - from component selection and circuit design to CAD modeling, prototyping, and firmware programming.
 
-I hold a **Master's degree in Mechanical Engineering** and currently work as a Mechanical Engineer at Fortrend Engineering Corporation. There I led the mechanical and electrical design and development of various robots and automation systems in semiconductor manufacturing.
+I hold a **Master's degree in Mechanical Engineering** and currently work as a Mechanical Engineer at Fortrend Engineering Corporation. There I led the mechanical and electrical design and development of front-end semiconductor automation systems including loadports, wafer transfer systems, SCARA robots, reticle handlers and box openers deployed in fabs of major industry leaders like TSMC, Intel, Samsung, and Apple.
 
 During my free time, I enjoy hiking & skiing in the Sierra Nevada, surfing along the coast, or kiteboarding inside the bay.
 
