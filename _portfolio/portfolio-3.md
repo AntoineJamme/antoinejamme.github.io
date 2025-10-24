@@ -1,6 +1,6 @@
 ---
 title: "Semiconductor Equipment Design - CXRO/Lawrence Berkeley National Lab"
-excerpt: "Automation systems and robotics for EUV lithography research tools at the Center for X-Ray Optics<br/><img src='/images/capture.png'>"
+excerpt: "Automation systems and robotics for EUV lithography research tools at the Center for X-Ray Optics<br/><img src='/images/Capture.png'>"
 collection: portfolio
 ---
 
@@ -33,3 +33,4 @@ CAD Design • Precision Mechanics • Robotics • Semiconductor Equipment • 
 **Client**: Lawrence Berkeley National Laboratory - Center for X-Ray Optics  
 **Location**: Berkeley, CA  
 **More Info**: [CXRO Engineering Projects](https://engineering.lbl.gov/cxro-center-for-x-ray-optics/) 
+
