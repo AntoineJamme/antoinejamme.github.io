@@ -1,6 +1,6 @@
 ---
 title: "Semiconductor Equipment Design - CXRO/Lawrence Berkeley National Lab"
-excerpt: "Automation systems and robotics for EUV lithography research tools at the Center for X-Ray Optics<br/><img src='/images/Capture.png'>"
+excerpt: "Automation systems and robotics for EUV lithography research tools at the Center for X-Ray Optics<br/><img src='/images/berkeley.png'>"
 collection: portfolio
 ---
 
