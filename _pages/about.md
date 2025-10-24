@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 # 
-I'm **Antoine Jamme**, co-founder and hardware engineer at [OMGrab](https://isaacery.github.io/), where we're building the future of robotics training data collection through smartglasses and data infrastructure.
+
+I'm **Antoine Jamme**, co-founder and hardware engineer at **OMGrab**, where we're building the future of robotics training data collection through smartglasses and data infrastructure.
 
 At **OMGrab** I'm designing **robotics-grade smartglasses** that capture high-quality human point-of-view demonstrations. My work spans the entire hardware development lifecycle - from component selection and circuit design to CAD modeling, prototyping, and firmware programming.
 
