@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "CV"
+title: "CV - Antoine Jamme"
+description: "Antoine Jamme's professional CV - Mechanical Engineer with expertise in robotics hardware design, semiconductor automation systems, and smartglasses development."
 permalink: /cv/
 author_profile: true
 redirect_from:

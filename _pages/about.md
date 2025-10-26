@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Hi, welcome to my page"
+title: "Antoine Jamme - Mechanical Engineer & Robotics Hardware Designer"
+description: "Co-founder at OMGrab building robotics-grade smartglasses. Mechanical Engineer with expertise in semiconductor automation, CAD design, and hardware development."
 author_profile: true
 redirect_from:
   - /about/
@@ -15,7 +16,7 @@ I hold a **Master's degree in Mechanical Engineering** and currently work as a M
 
 During my free time, I enjoy hiking & skiing in the Sierra Nevada, surfing along the coast, or kiteboarding inside the bay.
 
-![Hardware](/images/hardware.PNG)
+![Hardware Design and Robotics Engineering - Semiconductor automation systems and smartglasses development](/images/hardware.PNG)
 
 ---
 
