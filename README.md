@@ -1,15 +1,15 @@
 # Antoine Jamme's Personal Website
-**Personal academic website showcasing my work as a Co-founder & Hardware Engineer at OMGrab.**
+**Personal academic website showcasing my work as a Co-founder & Hardware Engineer at OMGrab Inc..**
 
-![Antoine Jamme - Hardware Engineer](images/hardware.PNG "Hardware development at OMGrab")
+![Antoine Jamme - Hardware Engineer](images/hardware.PNG "Hardware development at OMGrab Inc.")
 
 # About This Website
 
-This is my personal academic website built with Jekyll and the Academic Pages template. The site showcases my work as a hardware engineer and co-founder at OMGrab, where we're building robotics-grade smartglasses for large-scale robot training data collection.
+This is my personal academic website built with Jekyll and the Academic Pages template. The site showcases my work as a hardware engineer and co-founder at OMGrab Inc., where we're building robotics-grade smartglasses for large-scale robot training data collection.
 
 ## Website Sections
 
-- **About**: My background and current work at OMGrab
+- **About**: My background and current work at OMGrab Inc.
 - **Portfolio**: Recent projects and hardware development work
 - **CV**: Professional experience and education
 
