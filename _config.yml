@@ -145,9 +145,11 @@ og_description           : "Antoine Jamme - Mechanical Engineer & Co-founder at 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Antoine Jamme"
+  links:
+    - "https://www.linkedin.com/in/antoine-jamme/"
+    - "https://github.com/AntoineJamme"
 
 
 # Analytics
