@@ -1,5 +1,7 @@
 ---
 title: "Vision-Based Hand Shadowing for Robotic Manipulation via Inverse Kinematics"
+collection: publications
+category: manuscripts
 date: 2026-03-11
 venue: "arXiv (cs.RO; cs.AI)"
 excerpt: "Offline hand-shadowing and retargeting from a single egocentric RGB-D camera: detect hand landmarks, deproject to 3D, transform frames, and solve damped-least-squares inverse kinematics to control a 6-DOF robot."
